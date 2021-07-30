@@ -1,3 +1,5 @@
+<img align='right' src="https://ak2316.user.srcf.net/images/profileptolemy.png" width=400 style="margin: 10px;" /> 
+
 ## 1st Year Mathematics Student (Cambridge)
 
 ### Currently Engineering @ Evervault 🔒
