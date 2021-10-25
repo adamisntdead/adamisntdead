@@ -1,10 +1,8 @@
 <img align='right' src="https://ak2316.user.srcf.net/images/profileptolemy.png" width=400 style="margin: 10px;" /> 
 
-## 1st Year Mathematics Student (Cambridge)
+## 2nd Year Mathematics Student (Cambridge)
 
-### Currently Engineering @ Evervault 🔒
-
-I'm a first year Mathematics student at the [University of Cambridge](https://www.cam.ac.uk/), studying at [Gonville and Caius](https://www.cai.cam.ac.uk/) College. I'm also spending the summer as an Engineer at [Evervault](https://evervault.com/) working on making the web a more secure place.
+I'm a second year Mathematics student at the [University of Cambridge](https://www.cam.ac.uk/), studying at [Gonville and Caius](https://www.cai.cam.ac.uk/) College. 
 
 <br>
 <p style="text-align: center;">
