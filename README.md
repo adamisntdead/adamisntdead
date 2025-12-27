@@ -1,8 +1,10 @@
 <img align='right' src="https://ak2316.user.srcf.net/images/profileptolemy.png" width=400 style="margin: 10px;" /> 
 
-## 3nd Year Mathematics Student (Cambridge)
+## Quant Trader (Virtu Financial)
 
-I'm a third year Mathematics student at the [University of Cambridge](https://www.cam.ac.uk/), studying at [Gonville and Caius](https://www.cai.cam.ac.uk/) College. 
+I'm a quantitative trader at [Virtu Financial](https://www.virtu.com/), currently located in Dublin. 
+
+Previously I was a Mathematics student at the [University of Cambridge](https://www.cam.ac.uk/), studying at [Gonville and Caius](https://www.cai.cam.ac.uk/) College. 
 
 <br>
 <p style="text-align: center;">
